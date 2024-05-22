@@ -1,7 +1,7 @@
 # Ball App
 Welcome to Ball App! This simple web application randomly shows users an image of either a red or blue ball upon visiting the page. The color shown to the user is determined randomly, with a 50/50 chance for each color.
 
-### [Visit Ball App](http://ball-app.s3-website-ap-southeast-2.amazonaws.com/)
+#### [Visit Ball App](http://ball-app.s3-website-ap-southeast-2.amazonaws.com/)
 
 
 # Functionality
