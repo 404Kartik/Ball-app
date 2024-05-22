@@ -1,0 +1,26 @@
+body {
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+#container {
+  backdrop-filter: blur(10px);
+  width: 500px;
+  height: 200px;
+  background-color: hsla(0, 0%, 100%, 0.13);
+  border: 2px solid hsla(0, 0%, 100%, 0.1);
+  border-radius: 10px;
+  box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+  text-align: center;
+}
+#report {
+  margin-top: 20px;
+}
+#container-data{
+   color: #f5f5f5;
+}
